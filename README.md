@@ -2,7 +2,7 @@
 
 1. Github dùng để làm gì?
 
- Github là một nền tảng xã hội (hub) dành cho git. Git là một hệ thống quản lý phiên bản mã nguồn mở. Git có thể quan sát, quản lý, và tủy chỉnh những thay đổi của bạn. Không chỉ là một bản backup thông thường, git có thể cho phép nhiều thay đổi khác nhau được thực hiện cùng lúc vmà vẫn có thể đảm bảo sự ổn định trong bất cứ thông tin nào. Với những khả năng ấy, mạng xã hội hóa git nhân rộng công dụng của git khi cho phép mọi người cùng làm việc, quản lý, thay đổi dự án một cách toàn diện và hiệu quả.  
+ Github là một nền tảng xã hội (hub) dành cho git. Git là một hệ thống quản lý phiên bản mã nguồn mở. Git có thể quan sát, quản lý, và tùy chỉnh những thay đổi của bạn. Không chỉ là một bản backup thông thường, git có thể cho phép nhiều thay đổi khác nhau được thực hiện cùng lúc mà vẫn có thể đảm bảo sự ổn định trong bất cứ thông tin nào. Với những khả năng ấy, mạng xã hội hóa git nhân rộng công dụng của git khi cho phép mọi người cùng làm việc, quản lý, thay đổi dự án một cách toàn diện và hiệu quả.  
 
 2. Repository là gì? 
 
